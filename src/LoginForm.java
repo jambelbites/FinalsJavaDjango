@@ -45,7 +45,7 @@ public class LoginForm extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(51, 204, 0));
 
-        jLabel1.setText("Username");
+        jLabel1.setText("Username:");
 
         txtPassword.setForeground(new java.awt.Color(255, 153, 0));
 
@@ -67,7 +67,7 @@ public class LoginForm extends javax.swing.JFrame {
             }
         });
 
-        jLabel2.setText("Password");
+        jLabel2.setText("Password:");
 
         jPanel1.setBackground(new java.awt.Color(0, 102, 102));
         jPanel1.setForeground(new java.awt.Color(204, 102, 0));
